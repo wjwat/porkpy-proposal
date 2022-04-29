@@ -43,3 +43,5 @@
 * **2022-04-29 16:01PM**: Feeling pretty solid about everything even though I
   haven't put hand to keyboard with any code about this. I'm going to look at
   the documentation for Black now (also Flake8 which I saw mentioned somewhere.)
+* **2022-04-29 17:09PM**: Looking over the Porkbun API documentation, and using
+  cURL to test it out.
