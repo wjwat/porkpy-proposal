@@ -34,3 +34,7 @@
 * **2022-04-29 12:10PM**: I feel confident that his was the right direction to
   head in, but there are so many options I've hit that wall of indecision
   because I want to make the "right" decision.
+* **2022-04-29 12:16PM**: As I read these articles it feels like Poetry is the
+  right choice.
+* **2022-04-29 13:21PM**: Looking at Poetry docs now.
+  https://python-poetry.org/docs/
