@@ -38,3 +38,4 @@
   right choice.
 * **2022-04-29 13:21PM**: Looking at Poetry docs now.
   https://python-poetry.org/docs/
+* **2022-04-29 13:48PM**: Break for lunch.
