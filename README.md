@@ -39,3 +39,4 @@
 * **2022-04-29 13:21PM**: Looking at Poetry docs now.
   https://python-poetry.org/docs/
 * **2022-04-29 13:48PM**: Break for lunch.
+* **2022-04-29 15:03PM**: Reading through: https://realpython.com/comparing-python-command-line-parsing-libraries-argparse-docopt-click/
