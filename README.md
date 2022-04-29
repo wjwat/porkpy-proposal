@@ -2,8 +2,6 @@
 
 **ALL TIMES ARE IN CST**
 
-## 2022-04-29
-
 * **2022-04-29 10:48AM**: Deciding where I should initially head to figure out
   this project.
 * **2022-04-29 11:03AM**: I'm annoyed with typing these date time's out so I'm
@@ -33,3 +31,6 @@
   > Ive used poetry and pyenv; they are useful when you are working on python
   > applications that use different python versions. They may introduce unneeded
   > complexity for a beginner. 
+* **2022-04-29 12:10PM**: I feel confident that his was the right direction to
+  head in, but there are so many options I've hit that wall of indecision
+  because I want to make the "right" decision.
