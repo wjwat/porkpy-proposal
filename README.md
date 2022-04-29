@@ -40,3 +40,6 @@
   https://python-poetry.org/docs/
 * **2022-04-29 13:48PM**: Break for lunch.
 * **2022-04-29 15:03PM**: Reading through: https://realpython.com/comparing-python-command-line-parsing-libraries-argparse-docopt-click/
+* **2022-04-29 16:01PM**: Feeling pretty solid about everything even though I
+  haven't put hand to keyboard with any code about this. I'm going to look at
+  the documentation for Black now (also Flake8 which I saw mentioned somewhere.)
