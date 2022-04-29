@@ -45,3 +45,7 @@
   the documentation for Black now (also Flake8 which I saw mentioned somewhere.)
 * **2022-04-29 17:09PM**: Looking over the Porkbun API documentation, and using
   cURL to test it out.
+* **2022-04-29 18:02PM**: As expected I've broken something with one of my
+  domains. Thankfully it's one that doesn't matter.
+* **2022-04-29 18:03PM**: As of this moment I am all read out. I'm going to work
+  on some toy examples of building a CLI with Python & Click.
