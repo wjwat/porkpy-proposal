@@ -1,0 +1,26 @@
+# Capstone Planning Log
+
+**ALL TIMES ARE IN CST**
+
+## 2022-04-29
+
+* **2022-04-29 10:48AM**: Deciding where I should initially head to figure out
+  this project.
+* **2022-04-29 11:03AM**: I'm annoyed with typing these date time's out so I'm
+  going to automate this with an AutoHotKey script.
+* **2022-04-29 11:25AM**: BAM!
+  ```
+  ^!s::
+  FormatTime, CurrentDateTime, A_NowUTC, yyyy-MM-dd HH:mmtt
+  SendInput * **%CurrentDateTime%**: 
+  return
+  ```
+* **2022-04-29 11:27AM**: Environment management is probably my biggest hurdle
+  because so much of my prior Python dev experience is just making a directory
+  and then polluting my system python installation with whatever I want.
+* **2022-04-29 11:30AM**: Reading up on Python environments:
+  - https://jacobian.org/2019/nov/11/python-environment-2020
+  - https://realpython.com/python-virtual-environments-a-primer/
+  - https://realpython.com/effective-python-environment/
+  - https://realpython.com/dependency-management-python-poetry/
+* **2022-04-29 11:54AM**: Whoops, forgot to commit.
