@@ -24,3 +24,12 @@
   - https://realpython.com/effective-python-environment/
   - https://realpython.com/dependency-management-python-poetry/
 * **2022-04-29 11:54AM**: Whoops, forgot to commit.
+* **2022-04-29 11:57AM**: From what I can gather everyone has an opinion, and
+  there isn't really a specific path forward. As is usual.
+  > If you are just learning, I would go with whatever latest python3 version is
+  > in the package repos for your system and just manage the virtualenvs
+  > yourself.
+  >
+  > Ive used poetry and pyenv; they are useful when you are working on python
+  > applications that use different python versions. They may introduce unneeded
+  > complexity for a beginner. 
