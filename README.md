@@ -49,3 +49,5 @@
   domains. Thankfully it's one that doesn't matter.
 * **2022-04-29 18:03PM**: As of this moment I am all read out. I'm going to work
   on some toy examples of building a CLI with Python & Click.
+* **2022-05-01 15:05PM**: Found a great article about setting up pre-commit with
+  Black & flake8. https://dev.to/m1yag1/how-to-setup-your-project-with-pre-commit-black-and-flake8-183k
