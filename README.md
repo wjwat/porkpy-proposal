@@ -70,3 +70,6 @@
   more confident right now. As of right now I can check prices for domains, but
   it needs a little more polish, and is honestly one of the simpler functions of
   the application.
+* **2022-05-06 17:10PM**: Part of the struggle here is that not only are the
+  concepts new & difficult, the language used to express them is new and
+  difficult. Jargon will be the death of me.
