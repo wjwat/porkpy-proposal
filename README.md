@@ -51,3 +51,18 @@
   on some toy examples of building a CLI with Python & Click.
 * **2022-05-01 15:05PM**: Found a great article about setting up pre-commit with
   Black & flake8. https://dev.to/m1yag1/how-to-setup-your-project-with-pre-commit-black-and-flake8-183k
+* **2022-05-06 10:27AM**: I was able to get pre-commit setup. Right now I'm
+  getting myself used to the new workflow that was recommended to me. I'm still
+  unsure if this is the kind of workflow you'd want to have in general, but I'm
+  rolling with it for now.
+  ```mermaid
+  graph TD
+    a[Need to make changes] --> b[Create new branch off main]
+    b --> c[Make and commit changes]
+    c --> d[switch back to main]
+    d --> e[git merge --squash `branchname` && git commit]
+    e --> f[edit commit message]
+    f --> g[git push]
+    g --> h[git branch -D `branchname`]
+    h --> |Realize all the things you did wrong|a
+  ```
