@@ -66,3 +66,7 @@
     g --> h[git branch -D `branchname`]
     h --> |Realize all the things you did wrong|a
   ```
+* **2022-05-06 12:07PM**: It's been slow going with Click, but I feel a little
+  more confident right now. As of right now I can check prices for domains, but
+  it needs a little more polish, and is honestly one of the simpler functions of
+  the application.
