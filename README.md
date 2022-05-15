@@ -82,3 +82,8 @@
   each command & subcommand.
 * **2022-05-15 15:32PM**: Making each option a dictionary member feels solid to
   me. We'll see if that holds up in 15 minutes.
+* **2022-05-15 16:21PM**: Still feeling pretty good about where I'm heading. Now
+  that I'm feeling it I'm able to crank out code for each subcommand, and it's
+  fantastic.
+* **2022-05-15 17:49PM**: Gotta love getting in the groove and running straight
+  into a bug with the API you've based your whole capstone around. Fantastic.
