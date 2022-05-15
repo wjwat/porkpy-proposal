@@ -80,3 +80,5 @@
   dove in. Maybe diving in is what was required to learn. Regardless I've got
   somewhat of a path forward now so I'm able to start writing out the logic for
   each command & subcommand.
+* **2022-05-15 15:32PM**: Making each option a dictionary member feels solid to
+  me. We'll see if that holds up in 15 minutes.
