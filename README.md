@@ -73,3 +73,10 @@
 * **2022-05-06 17:10PM**: Part of the struggle here is that not only are the
   concepts new & difficult, the language used to express them is new and
   difficult. Jargon will be the death of me.
+* **2022-05-15 15:06PM**: What a complete shit show this weekend has been. I hit
+  a wall related to how I wanted to structure the CLI, and it was just
+  frustration after frustration after that. A firmer understanding of how Click
+  intends for it's groups, commands, and options would have been nice before I
+  dove in. Maybe diving in is what was required to learn. Regardless I've got
+  somewhat of a path forward now so I'm able to start writing out the logic for
+  each command & subcommand.
